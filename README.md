@@ -2,7 +2,8 @@
 #  🐦 🏴‍☠️🐦 🐦 
  
  
-# 🚢 This Ship Is Sailing.. *towards v0.0.1 we hope?*
+# 🚢 This Ship Is Sailing.. 
+*towards v0.0.1 we hope?*
  ## coming soon
  ### Onboarding
  The ability to chirp w/ your flock *fluently* & *efficiently*. 
