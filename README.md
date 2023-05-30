@@ -1,8 +1,8 @@
-# pigeon-app-hacked
+# pigeon-app-hacked-edition
   🐦 🏴‍☠️🐦 🐦 
  
  
-# 🚢 This Ship Is Sailing.. 
+# 🚢 This Ship Is Sailing.. *towards version 0.0.1 we hope?*
  ## coming soon
  ### Onboarding
  The ability to chirp w/ your flock *fluently* & *efficiently*. 
