@@ -2,9 +2,9 @@
   🐦 🏴‍☠️🐦 🐦 
  
  
-# 🚢
+# 🚢 This Ship Is Sailing.. 
  ## coming soon
- 
+ ### Onboarding
  The ability to chirp w/ your flock *fluently* & *efficiently*. 
  
  ```shell
