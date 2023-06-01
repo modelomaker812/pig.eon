@@ -1,7 +1,7 @@
 {
     "name": "pigeon",
     "version": "0.1.0",
-    "description": "A free WebRTC browser-based video call",
+    "description": "A description goes here",
     "main": "main.js",
     "build": {
     "appId": "com.pigeon.app",
@@ -33,7 +33,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/miroslavpejic85/pigeon"
+        "url": "git+https://github.com/modelomaker812/pig.eon"
     },
     "keywords": [
         "webrtc",
@@ -44,10 +44,12 @@
     ],
     "author": "Miroslav Pejic",
     "license": "AGPL-3.0",
-    "homepage": "https://github.com/miroslavpejic85/pigeon",
+    "homepage": "https://github.com/modelomaker812/pig.eon",
     "dependencies": {
+        "@hyperswarm/dht": "^6.2.1",
         "@sentry/integrations": "^7.46.0",
         "@sentry/node": "^7.46.0",
+        "base58-js": "^1.0.5",
         "body-parser": "^1.20.2",
         "colors": "^1.4.0",
         "compression": "^1.7.4",
@@ -55,6 +57,7 @@
         "crypto-js": "^4.1.1",
         "dotenv": "^16.0.3",
         "express": "^4.18.2",
+        "keypear": "^1.1.1",
         "ngrok": "^4.3.3",
         "qs": "^6.11.1",
         "socket.io": "^4.6.1",
