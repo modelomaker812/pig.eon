@@ -184,6 +184,7 @@ const views = {
     client: path.join(__dirname, '../../', 'public/views/client.html'),
     landing: path.join(__dirname, '../../', 'public/views/landing.html'),
     login: path.join(__dirname, '../../', 'public/views/login.html'),
+    mlogin: path.join(__dirname, '../../', 'public/views/mlogin.html'),
     newCall: path.join(__dirname, '../../', 'public/views/newcall.html'),
     notFound: path.join(__dirname, '../../', 'public/views/404.html'),
     permission: path.join(__dirname, '../../', 'public/views/permission.html'),
@@ -259,6 +260,11 @@ app.get(['/login'], (req, res) => {
 // pigeon about
 app.get(['/about'], (req, res) => {
     res.sendFile(views.about);
+});
+
+// pigeon magic login
+app.get(['/mlogin'], (req, res) => {
+    res.sendFile(views.mlogin);
 });
 
 // set new room name and join
